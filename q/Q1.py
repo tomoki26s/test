@@ -1,5 +1,5 @@
 name="田中"
-age=20
+age=21
 height=170.5
 
 AGE = age + 1
